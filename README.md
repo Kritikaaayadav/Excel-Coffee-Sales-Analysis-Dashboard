@@ -1,5 +1,5 @@
-# Excel-Coffee-Sales-Analysis-Dashboard
-Coffee Sales Analysis
+# ☕Excel-Coffee-Sales-Analysis-Dashboard
+
 This project is a *Coffee Sales Analysis Dashboard* created in *Microsoft Excel* as part of my data analytics portfolio.  
 It demonstrates the process of *data cleaning, transformation, and visualization* using Excel formulas, Pivot Tables, and interactive dashboards.  
 
@@ -62,5 +62,8 @@ Performed step-by-step in Excel:
    -**Medium roast** generated the highest sales compared to other roast types.<br>
    -Peak sales occur in mid-year months,showing strong seasonal patterns.<br>
    -Customers from **United States** and **Ireland** contribute the most to total sales.<br>
+
+## Data Source
+Dataset inspired by [Mo Chen's Excel Portfolio Project On Youtube]
 
 
