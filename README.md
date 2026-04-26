@@ -10,8 +10,6 @@ The dataset consists of three tables:
 - Orders
 - Customers
 - Products
-- <img width="1183" height="567" alt="image" src="https://github.com/user-attachments/assets/04998e57-092b-41e6-911d-1bb1c5dfbcae" />
-
 
 These tables were linked using lookup formulas to gather complete information for analysis.
 
